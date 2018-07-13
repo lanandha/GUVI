@@ -6,7 +6,7 @@ public static void main(String[]args){
 	a=sc.nextInt();
 	b=sc.nextInt();
 	for(i=a+1;i<b;i++){
-		if(i%2!=0){
+		if(i%2==0){
 			System.out.println(i);
 		}
 	}

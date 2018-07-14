@@ -12,9 +12,9 @@ public static void main(String[] args){
 	}
 	if(temp==c){
 		
-			System.out.println("palindrome");
+			System.out.println("yes");
 		} else {
-			System.out.println("Not palindrome");
+			System.out.println("No");
 		}
 	}
 

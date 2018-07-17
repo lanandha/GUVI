@@ -6,6 +6,6 @@ public static void main(String[]args){
 	min=sc.nextInt();
 	hr=min/60;
 	rem=min-(60*hr);
-	System.out.println(hr+""+rem);
+	System.out.println(hr+" "+rem);
 }
 }

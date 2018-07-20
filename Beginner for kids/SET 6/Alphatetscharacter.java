@@ -2,10 +2,9 @@ import java.util.*;
 public class Alphatetscharacter {
  public static void main(String[]args){
 	 String a;
-	 int i,b=0,v;
+	 int i,b=0;
 	 Scanner sc=new Scanner(System.in);
 	 a=sc.nextLine();
-	 //b=sc.nextInt();
 	 char ch[]=a.toCharArray();
 	 int len=ch.length;
 	 for(i=0;i<len;i++){
